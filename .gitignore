@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments and editors
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+
+# Data, runs and outputs (never committed; top-level folders only)
+/data/
+/runs/
+/analysis*/
+/figures/
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.edf
+*.h5
+*.out
+*.log

@@ -1,0 +1,10 @@
+# Tested with Python 3.7 and the versions below; newer versions are expected to work.
+torch>=1.12
+numpy>=1.21
+scipy>=1.4
+scikit-learn>=1.0
+pandas>=1.3
+matplotlib>=3.3
+# preprocessing only (EDF reading)
+mne>=1.0
+tqdm>=4.0
